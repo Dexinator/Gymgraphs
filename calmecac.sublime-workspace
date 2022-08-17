@@ -1,0 +1,839 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getMinutes"
+			],
+			[
+				"arra",
+				"array_map"
+			],
+			[
+				"dateob",
+				"dateobjform"
+			],
+			[
+				"time",
+				"timeformat"
+			],
+			[
+				"empt",
+				"empty()"
+			],
+			[
+				"POS",
+				"$_POST"
+			],
+			[
+				"Platillo",
+				"Platillos_Preferidos"
+			],
+			[
+				"ta",
+				"tag"
+			],
+			[
+				"v",
+				"visualize"
+			],
+			[
+				"S",
+				"Supoort_Vector_Machine"
+			],
+			[
+				"hyp",
+				"hyp_x_min"
+			],
+			[
+				"data",
+				"data_dic"
+			],
+			[
+				"op",
+				"opt_choice"
+			],
+			[
+				"opt",
+				"optimized"
+			],
+			[
+				"w",
+				"w_t"
+			],
+			[
+				"tra",
+				"transformation"
+			],
+			[
+				"trans",
+				"transforms"
+			],
+			[
+				"step",
+				"step_sizes"
+			],
+			[
+				"fe",
+				"feature"
+			],
+			[
+				"fea",
+				"featuresset"
+			],
+			[
+				"class",
+				"classificaftion"
+			],
+			[
+				"V",
+				"visualization"
+			],
+			[
+				"co",
+				"confidence"
+			],
+			[
+				"test",
+				"test_set"
+			],
+			[
+				"trai",
+				"train_set"
+			],
+			[
+				"in",
+				"inplace"
+			],
+			[
+				"vote",
+				"vote_results"
+			],
+			[
+				"vo",
+				"vote_results"
+			],
+			[
+				"euclid",
+				"euclidean_dist"
+			],
+			[
+				"pred",
+				"predict"
+			],
+			[
+				"e",
+				"euclidean_d"
+			],
+			[
+				"y",
+				"y_test"
+			],
+			[
+				"X_t",
+				"x_test"
+			],
+			[
+				"squared_",
+				"squared_error_reg"
+			],
+			[
+				"ys",
+				"ys_line"
+			],
+			[
+				"last_",
+				"last_unix"
+			],
+			[
+				"nex",
+				"next_date"
+			],
+			[
+				"forec",
+				"forecast_set"
+			],
+			[
+				"las",
+				"last_unix"
+			],
+			[
+				"forecas",
+				"forecast_set"
+			],
+			[
+				"X_",
+				"X_lately"
+			],
+			[
+				"fore",
+				"forecast_out"
+			],
+			[
+				"y_t",
+				"y_train"
+			],
+			[
+				"tr",
+				"True"
+			],
+			[
+				"for",
+				"forecast_out"
+			],
+			[
+				"forecast",
+				"forecast_out"
+			],
+			[
+				"win",
+				"winner"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"game",
+				"game_board"
+			],
+			[
+				"g",
+				"game_board"
+			],
+			[
+				"ju",
+				"just_display"
+			],
+			[
+				"ga",
+				"game_board"
+			],
+			[
+				"c",
+				"column"
+			],
+			[
+				"gam",
+				"game"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Haskell/Haskell.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeHaskell/SublimeHaskell.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeHaskell/SublimeHaskell.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/SublimeHaskell/SublimeHaskell.sublime-build",
+					"Configure"
+				],
+				[
+					"Packages/SublimeHaskell/SublimeHaskell.sublime-build",
+					"Rebuild"
+				],
+				[
+					"Packages/SublimeHaskell/SublimeHaskell.sublime-build",
+					"Install"
+				],
+				[
+					"Packages/SublimeHaskell/SublimeHaskell.sublime-build",
+					"Test"
+				]
+			],
+			[
+				"Packages/Haskell/Haskell.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"intend",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"reset",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"rese",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"git reset",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"ad",
+				"Git: Add All"
+			],
+			[
+				"stage",
+				"Git: Diff Staged Files"
+			],
+			[
+				"git init ",
+				"Git: Init"
+			],
+			[
+				"check",
+				"Git: Checkout"
+			],
+			[
+				"remot",
+				"Git: Add Remote"
+			],
+			[
+				"init",
+				"Git: Init"
+			],
+			[
+				"add rem",
+				"Git: Add Remote"
+			],
+			[
+				"remo",
+				"Git: Remote"
+			],
+			[
+				"git remo",
+				"Git: Add Remote"
+			],
+			[
+				"git rem",
+				"Git: Remote"
+			],
+			[
+				"gi",
+				"Git: Init"
+			],
+			[
+				"haskell",
+				"SublimeHaskell: Install"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"add repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"all",
+				"Git: Add All"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git:com",
+				"Git: Commit"
+			],
+			[
+				"git:i",
+				"Git: Init"
+			],
+			[
+				"git:pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"git:rem",
+				"Git: Remote"
+			],
+			[
+				"git:stat",
+				"Git: Status"
+			],
+			[
+				"git:init",
+				"Git: Init"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control ",
+				"Package Control: Enable Package"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/CDReserv/3-theme.css",
+		"/C/xampp/htdocs/CDReserv/README.txt",
+		"/C/xampp/htdocs/CDReserv/3-reservation.php",
+		"/C/xampp/htdocs/CDReserv/2-reserve.php",
+		"/C/xampp/htdocs/CitasEP2706/survey.php",
+		"/A/Haskell/Test.hs",
+		"/C/xampp/htdocs/surveyform/survey.php",
+		"/C/xampp/htdocs/surveyform/style.css",
+		"/C/xampp/htdocs/surveyform/email-template.php",
+		"/A/Downloads/survey_borr.php",
+		"/A/Downloads/gutetesurveys.com-2022-05-16/usr/local/apache/domlogs/archive/u1263-qwdxw699gsrc/gutetesurveys.com",
+		"/C/Users/Jorge/Desktop/email-template.php",
+		"/A/Downloads/Polanco panoramica.jpg",
+		"/A/Documents/Prueba carga teamviewer/carga.py",
+		"/C/Users/Jorge/Desktop/Python/SVM2.py",
+		"/A/Downloads/products_export_1 (6).csv",
+		"/C/Users/Jorge/Desktop/themeforest-Lbhht8rD-edumy-premium-moodle-lms-theme/cocoon-edumy-moodle-v2.1.4/For Developers/cocoon_edumy_myisam.sql",
+		"/A/Documents/Prueba carga teamviewer/Tienda en Línea 02 Mayo-20210112T122603Z-001.zip",
+		"/A/Documents/Prueba carga teamviewer/Tienda en Línea 02 Mayo-20210112T122603Z-002.zip",
+		"/A/Wordpress/wordpress-5.6.zip",
+		"/C/Users/Jorge/Desktop/Python/class.py",
+		"/C/Users/Jorge/Desktop/ScpServer/bin/ScpDriver.exe",
+		"/C/Users/Jorge/Desktop/Python/SVM.py",
+		"/A/Documents/Prueba carga teamviewer/Tienda en Linea/carga.py",
+		"/C/Users/Jorge/Desktop/Python/BC2.py",
+		"/C/Users/Jorge/Desktop/Python/breastcancer.py",
+		"/C/Users/Jorge/Desktop/Regression.py",
+		"/C/Users/Jorge/Desktop/ML.py",
+		"/C/Users/Jorge/Desktop/p1.py",
+		"/C/Users/Jorge/Desktop/Python/breast-cancer-wisconsin.data.txt",
+		"/A/Documents/p1"
+	],
+	"find":
+	{
+		"height": 27.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"align",
+			"alert",
+			"sum=",
+			"sum==",
+			"var sum",
+			"sum",
+			"sum>",
+			"sum",
+			"selected_day",
+			"get",
+			"prodsselec",
+			"option disabled",
+			"Juego_Favorito",
+			"prods_amount",
+			"res",
+			"dateobjform2",
+			"convertDate",
+			"dateobjform",
+			"idname",
+			"i_tel",
+			"res_telefono",
+			"res_telefo",
+			"CDname",
+			"res_mail",
+			"document.getElementById('idname').value",
+			"endobj",
+			"i_mail",
+			"i_email",
+			"i_name",
+			"i_name\n",
+			"cboxes",
+			"i_name",
+			"citadobl",
+			"form",
+			"from",
+			"citadoble",
+			"res_telefono",
+			"res_mail",
+			"res_name",
+			"name",
+			"flatpickr",
+			"res_telefono",
+			"res_tel",
+			"res_mail",
+			"mail",
+			"idname",
+			"timeformat",
+			"idname",
+			"timeformat",
+			"idname",
+			"idname\n",
+			"timeformat",
+			"group",
+			".group",
+			"survey-form",
+			"group",
+			"survey-form",
+			"fa-envelope",
+			"fas",
+			"radio",
+			"fas fa-envelope",
+			"prods_amount",
+			"endTime2",
+			"reserva",
+			"reservva",
+			"test",
+			"values",
+			"res_mail",
+			"eventTime2",
+			"<form",
+			"</form>",
+			"form",
+			"step",
+			"element.dataset.setStep",
+			"data-set-step",
+			"setStep",
+			"eventTime2",
+			"select",
+			"range",
+			"ran",
+			"range",
+			"center",
+			" class=\"single-checkbox\"",
+			"single-checkbox",
+			"single-checkbox\n",
+			"single-checkbox",
+			"single-checkbo",
+			"changeradioother",
+			"Ocupación",
+			"Cómo_conociste",
+			"task_6",
+			"Ocupación",
+			"Cómo_conociste",
+			"response",
+			";\n",
+			"hear_about_us",
+			"rating",
+			"email",
+			"result",
+			"style",
+			"step",
+			"checkbox",
+			"checkbox li",
+			"ul.checkbox li",
+			"ul.checkbox li { ",
+			"checkb",
+			"block",
+			"group",
+			"mail",
+			"step",
+			"setStep",
+			"setstep",
+			"mouse",
+			"clic",
+			"typ",
+			"cut",
+			"=\n",
+			"parent",
+			"ra"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"Ocupacion",
+			"Como_conociste",
+			"Ocupacion",
+			"Como_conociste"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 275.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 132.0
+	},
+	"output.git-commit":
+	{
+		"height": 132.0
+	},
+	"output.git-init":
+	{
+		"height": 138.0
+	},
+	"output.git-pull":
+	{
+		"height": 132.0
+	},
+	"output.git-push":
+	{
+		"height": 132.0
+	},
+	"output.git-remote":
+	{
+		"height": 132.0
+	},
+	"output.sublime_haskell_output_panel":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "calmecac.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 323.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
