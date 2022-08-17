@@ -2,3 +2,62 @@
   width: 100%;
   height: 500px;
 }
+#imgprinc{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  margin-top: 0px;
+  border-radius: 50%;
+}
+h2{
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+text-align: center;
+}
+
+
+h1 {
+    margin: 0;
+    padding: 35px 25px 25px 25px;
+    font-size: 20px;
+    color: #6a737f;
+    font-weight: 600;
+}
+h1 i {
+    padding-right: 10px;
+    font-size: 24px;
+  }
+
+html, body, div, input, span, a, select, textarea, option, h1, h2, h3, h4, main, aside, article, section, header, p, footer, nav, pre {
+    box-sizing: border-box;
+    font-family: Tahoma, Geneva, sans-serif;
+    
+}
+.conten{
+  display: flex;
+}
+
+.split
+{
+    width:50%;
+    
+}
+.left{
+  display: flex;
+   width:100%;
+}
+.right{
+  display: flex;
+   width:100%;
+}
+
+.imgleft{
+  height: 100%; 
+  display: block;
+  width: 100%;
+  object-fit: contain;
+
+
+}
